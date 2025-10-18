@@ -1,0 +1,28 @@
+{
+  "name": "gemini-chatbot-api-sesi-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangazep/congenial-lamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mangazep/congenial-lamp/issues"
+  },
+  "homepage": "https://github.com/mangazep/congenial-lamp#readme",
+  "dependencies": {
+    "@google/genai": "^1.25.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  }
+}
